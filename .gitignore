@@ -1,0 +1,16 @@
+## node modules
+.node_modules
+
+## any source design files
+*.ai
+*.psd
+psd
+ai
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
